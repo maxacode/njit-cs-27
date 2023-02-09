@@ -115,9 +115,106 @@
 # infinite loop/controlled
 
 
-x = 1
-#x = 0, 1, 2,3,4,5
-while x > 0:
-    x += 1 
-    print(x)
-    input('press enter to continue')
+# x = 1
+# #x = 0, 1, 2,3,4,5
+# while x > 0:
+#     x += 1 
+#     print(x)
+#     input('press enter to continue')
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+# Lesson 4 
+# lab 1
+
+
+# Request a number from a user, divide by zero and handle the errors
+
+# if number.isnumeric():
+#     print("this IS a number")
+# else:
+#     print("this is a string")
+# if number == 0 or number2 == 0:
+#     print("Cant divide by Zero")
+
+# while True:
+#     try:
+#         number = int(input("Enter a number: "))
+#         number2 = int(input("Enter another number: "))
+#         print(number / number2 )
+#         break
+#     except ZeroDivisionError:
+#         print("Can not divide by Zero")
+#     except ValueError:
+#         print("Please enter a number and not a LETTER!!!!")
+
+# print("Other code here!")
+
+
+# Lesson 2 
+"""Lab Objective: Practice handling errors that may occur in the code."""
+
+# product = 1
+# for i in range(4): # 0, 1, 2, 3
+#     while True:
+#         try:
+#             num = int(input("Enter a number: "))
+#             product *= num
+#             break
+#         except:
+#             print("The input is not a valid number")
+# print("The product of the 4 numbers is: " + str(product))
+
+#input("\nPress 'Enter' to exit the program")# prevents program from closing upon execution
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
